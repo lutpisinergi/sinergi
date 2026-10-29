@@ -1,0 +1,6 @@
+{
+  "name": "OPSi - Operational Performance System",
+  "description": "Sistem Manajemen & Monitoring Kinerja Operasional Cleaning Service PT. SINERGI Integra Services",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
